@@ -256,6 +256,10 @@ header p {
     .project-item3 {
         margin-top: 0;
     }
+
+    #projects button {
+        width: 20%;
+    }
 }
 
 /* Work Section */
